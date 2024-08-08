@@ -1,0 +1,10 @@
+
+a:link, a:visited {
+    color:#ffe372;
+    text-decoration: none;
+}
+a {background-color: #6691ef;}
+
+a:hover{
+    color: #ffffff;
+}

@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    margin: 50px;
+}
+.buttons {
+    display: grid;
+    font-size: 30px;
+    margin: 10px;
+}
+#first {
+    margin: 10px;
+    background-color: #6691ef;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#second {
+    margin: 10px;
+    background-color: #6691ef;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+button {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+}
+.ins {
+    font-size: 10px;
+    margin: 50px;
+}
